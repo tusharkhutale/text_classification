@@ -4,9 +4,6 @@ Text Classification Algorithms: A Survey
 ################################################
  
  
- Referenced paper : `Text Classification Algorithms: A Survey <https://arxiv.org/abs/1904.08067>`__    
- 
-|BPW|  
 
 
 
