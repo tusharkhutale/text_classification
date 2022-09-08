@@ -2,11 +2,6 @@
 ################################################
 Text Classification Algorithms: A Survey
 ################################################
-
-|DOI| |Best| |medium| |mendeley| |contributions-welcome| |arXiv| |ansicolortags| |contributors| |twitter|
-  
-  
-.. figure:: docs/pic/WordArt.png 
  
  
  Referenced paper : `Text Classification Algorithms: A Survey <https://arxiv.org/abs/1904.08067>`__    
